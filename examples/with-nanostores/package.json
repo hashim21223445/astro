@@ -14,7 +14,7 @@
     "@astrojs/preact": "^3.5.1",
     "@nanostores/preact": "^0.5.1",
     "astro": "^4.12.2",
-    "nanostores": "^0.10.3",
+    "nanostores": "^0.11.4",
     "preact": "^10.22.1"
   }
 }
